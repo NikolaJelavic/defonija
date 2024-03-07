@@ -8,7 +8,7 @@ export default function Program() {
         <>  
             <main class="flex justify-center mb-32">
                 <article className="bg-slate-200 w-11/12 md:w-1/2 mt-6 rounded-xl p-5 min-h-screen " >
-                    <h2 className="text-center text-l text-red-400">Četrtek, 21. marec 2024 od 08:30 do 11:59</h2>
+                    <h2 className="text-center text-l text-red-400">Četrtek, 21. marca 2024, ob 20.30</h2>
                     <h2 className="text-center text-3xl">Defonija: MIMAN (NO)</h2>
                     <p className="text-center"> 🚩 Klub Gromka, AKC Metelkova mesto</p>
                     <br />
