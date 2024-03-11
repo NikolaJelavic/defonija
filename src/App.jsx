@@ -1,10 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
-import ONama from './pages/ONama';
+import ONas from './pages/ONas';
 import Program from './pages/Program';
-import Linkovi from './pages/Linkovi';
+import Povezave from './pages/Povezave';
+import Arhiv from './pages/Arhiv'
 import Kontakt from './pages/Kontakt';
-import Arhiva from './pages/Arhiva'
 import Navbar from './components/Navbar';
 
 
@@ -16,10 +16,10 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<ONama />} />
+          <Route path="/" element={<ONas />} />
           <Route path="/program" element={<Program />} />
-          <Route path="/linkovi" element={<Linkovi />} />
-          <Route path='/arhiva' element={<Arhiva/>}/>
+          <Route path="/povezave" element={<Povezave />} />
+          <Route path="/arhiv" element={<Arhiv />}/>
           <Route path="/kontakt" element={<Kontakt />} />
         </Routes>
 
