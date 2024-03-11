@@ -1,12 +1,12 @@
 import Footer from "../components/Footer";
 
 
-export default function Linkovi() {
+export default function Arhiv() {
     
 
     return (
         <>
-            <p className="my-80 text-center">Linkovi</p>
+            <p className="my-80 text-center">Arhiv</p>
             <Footer/>
         </>
     )

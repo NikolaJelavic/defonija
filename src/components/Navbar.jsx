@@ -62,14 +62,14 @@ export default function Navbar() {
         </NavLink>
 
         <NavLink
-          to="/linkovi"
+          to="/povezave"
           onClick={toggleMenu}
         >
-          Linkovi
+          Povezave
         </NavLink>
 
         <NavLink
-          to="/Arhiva"
+          to="/arhiv"
           onClick={toggleMenu}
         >
           Arhiva
