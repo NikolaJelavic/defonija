@@ -77,7 +77,7 @@ export default function Kontakt() {
           <input
             type="submit"
             value="Send"
-            className="w-full px-4 py-2 text-lg font-semibold text-white bg-slate-500 rounded hover:bg-slate-700 focus:outline-none focus:bg-blue-600"
+            className="w-full px-4 py-2 text-lg font-semibold text-white bg-slate-500 rounded hover:bg-slate-700 focus:outline-none focus:bg-blue-600 mb-6"
           />
         </div>
       </form>

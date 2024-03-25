@@ -3,11 +3,11 @@ import Footer from "../components/Footer";
 export default function Povezave() {
     return (
         <>
-        <div className="flex flex-wrap justify-center mt-6 ">
+        <div className="flex flex-wrap justify-center mt-6 mb-12">
                 <div className="w-full md:w-1/2 lg:w-1/6 px-0 mb-8 ml-3" >
                 <h1 className="bg-slate-200 p-1 w-1/2">ORGANIZACIJE</h1>
                     <ul className="list-none">
-                        <li className="bg-green-200 w-1/3"><a href="https://rojisce.wordpress.com/" target="_blank" rel="noreferrer">Hud “O”</a></li>
+                        <li><a href="https://rojisce.wordpress.com/" target="_blank" rel="noreferrer">Hud “O”</a></li>
                         <li><a href="https://www.ljubljanajazz.si/index.php/sl/" target="_blank" rel="noreferrer">Jazz Festival Ljubljana</a></li>
                         <li><a href="https://www.facebook.com/kud.kussa.5" target="_blank" rel="noreferrer">KUD Kussa</a></li>
                         <li><a href="https://kudmreza.org/" target="_blank" rel="noreferrer">KUD Mreža</a></li>
@@ -54,7 +54,7 @@ export default function Povezave() {
                         <li><a href="https://sundaynoise.blogspot.com/" target="_blank" rel="noreferrer">Sunday NOISE</a></li>
                         <li className="bg-red-200 w-3/4"><a href="https://www.facebook.com/events/723310111352616" target="_blank" rel="noreferrer">Studio 8 / Mladi raziskovalci - 404</a></li>
                         <li className="bg-red-200 w-2/3"><a href="https://kudmreza.org/personalcollective" target="_blank" rel="noreferrer">Osebno - Kolektivno - 404</a></li>
-                        <li className="bg-green-200 w-1/3"><a href="https://rojisce.wordpress.com/" target="_blank" rel="noreferrer">Rojišče</a></li>
+                        <li><a href="https://rojisce.wordpress.com/" target="_blank" rel="noreferrer">Rojišče</a></li>
                         <li><a href="https://www.facebook.com/cikelropotarnica/" target="_blank" rel="noreferrer">Ropotarnica</a></li>
                         <li><a href="https://topografijezvoka.si/" target="_blank" rel="noreferrer">Topografije zvoka</a></li>
                         <li><a href="https://www.cona.si/slo/zvo-ci-ti-so-und-ing-duo-cikl-2018/" target="_blank" rel="noreferrer">ZVO.ČI.TI so.und.ing DUO</a></li>

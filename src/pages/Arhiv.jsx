@@ -70,7 +70,7 @@ const events = [
 export default function Arhiv() {
     return (
         <>
-            <div className="w-1/3 mx-auto mb-24">
+            <div className="w-11/12 md:w-1/3 mx-auto mb-24">
                 <div className="flex flex-col justify-center">
                     {events.map((event, index) => (
                         <Event key={index} date={event.date} show={event.show} />
