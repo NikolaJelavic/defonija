@@ -27,7 +27,7 @@ const Navbar = () => {
         <ul
           className={`${
             isMenuOpen ? "block" : "hidden"
-          } lg:flex lg:justify-evenly lg:space-x-4 lg:w-full w-60 absolute lg:relative bg-slate-300 lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto lg:mt-0 p-2 lg:p-0`}
+          } lg:flex lg:justify-evenly lg:space-x-4 lg:w-full w-60 absolute lg:relative lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto lg:mt-0 p-2 lg:p-0`}
         >
           <NavLink to="/" onClick={toggleMenu} className="flex items-center">
             <img
