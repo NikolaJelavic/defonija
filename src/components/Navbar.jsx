@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center mx-auto relative z-10">
         <div className="flex items-center">
           <button
-            className="lg:hidden text-white text-3xl focus:outline-none bg-slate-300 p-4 justify-left"
+            className="lg:hidden text-white text-3xl focus:outline-none bg-black p-4 justify-left"
             onClick={toggleMenu}
           >
             &#9776;

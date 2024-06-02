@@ -86,7 +86,7 @@ export default function Povezave() {
                     </ul>
                 </div>
         </div>
-            <Footer />
+            {/* <Footer /> */}
         </>
     );
 }

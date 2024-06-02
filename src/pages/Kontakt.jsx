@@ -81,7 +81,7 @@ export default function Kontakt() {
           />
         </div>
       </form>
-            <Footer/>
+            {/* <Footer/> */}
         </>
     )
 };

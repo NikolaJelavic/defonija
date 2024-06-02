@@ -29,7 +29,7 @@ export default function ONas() {
           <p className="text-right">&mdash;Europe Jazz Network (EJN)</p>
         </article>
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
