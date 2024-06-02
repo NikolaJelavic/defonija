@@ -77,7 +77,7 @@ export default function Arhiv() {
                     ))}
                 </div>
             </div>
-            <Footer />
+            {/* <Footer /> */}
         </>
     );
 }

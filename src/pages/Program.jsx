@@ -64,7 +64,7 @@ export default function Program() {
 
                 </article>
             </main>
-            <Footer/>
+            {/* <Footer/> */}
         </>
     )
 };
