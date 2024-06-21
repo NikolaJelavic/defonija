@@ -33,14 +33,14 @@ const Navbar = () => {
             <img
               src="https://res.cloudinary.com/dapwniqqn/image/upload/v1716910762/Defonija/Menu/About_lqcxlw.jpg"
               alt="About Us"
-              className="h-20  lg:h-16 lg:w-72"
+              className="h-16  lg:h-16 lg:w-72"
             />
           </NavLink>
           <NavLink to="/program" onClick={toggleMenu} className="flex items-center">
             <img
               src="https://res.cloudinary.com/dapwniqqn/image/upload/v1716910763/Defonija/Menu/Events_t65c7b.jpg"
               alt="Program"
-              className="h-20  lg:h-16 lg:w-72"
+              className="h-16  lg:h-16 lg:w-72"
             />
           </NavLink>
           <NavLink to="/povezave" onClick={toggleMenu}>
@@ -51,7 +51,7 @@ const Navbar = () => {
           <img
               src="https://res.cloudinary.com/dapwniqqn/image/upload/v1716910763/Defonija/Menu/Archive_ucwcji.jpg"
               alt="Program"
-              className="h-20  lg:h-16 lg:w-72"
+              className="h-16  lg:h-16 lg:w-72"
             />
            
           </NavLink>
@@ -59,7 +59,7 @@ const Navbar = () => {
           <img
               src="https://res.cloudinary.com/dapwniqqn/image/upload/v1716910762/Defonija/Menu/Contact_uxnjhe.jpg"
               alt="Program"
-              className="h-20  lg:h-16 lg:w-72"
+              className="h-16  lg:h-16 lg:w-72"
             />
             
           </NavLink>
